@@ -65,7 +65,7 @@ wallGet = "https://api.vk.com/method/wall.get?access_token="
 ownerId = '&owner_id=-'
 offsetValue = "&offset="
 otherPar = '&count=1&v=5.92'
-accessToken = 'd7efca0f6a0cb54f2274bf19b17c58212dae26fbd147c7069aa0364363a990546c8830323e62026a462b9'
+accessToken = 'd7efca0f6a0cb54f2274bf19b17c58212dae26fbd147c7069aa0364363a990546c8830323e62026a462b9' #not working, put yours
 PublicId = ['133624651', '110310316', '166931460',
             '86559535', '52808290', '39695140', '100157872', '26406986', '50957736', '37428214', '146246673',
             '112964810', '104417315', '111182922', '104202061', '102334909', '104083566',
